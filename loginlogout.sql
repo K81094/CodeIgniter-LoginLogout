@@ -41,9 +41,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `username`, `password`, `register_date`) VALUES
-(2, 'Brad', 'Traversy', 'techguyinfo@gmail.com', 'BradT', '162b826c13cebd8806b1e114edecfcc9', '2013-09-25 22:04:41'),
-(3, 'kamal', 'kishor', 'kamal81094@gmail.com', 'k81094', 'd2db024c9cf6dc779bd3a36fd80a5b54', '2017-01-19 00:32:10'),
-(4, 'kamal', 'kamal', 'kamal81094@gmail.com', 'kamal', 'aa63b0d5d950361c05012235ab520512', '2017-01-22 18:00:39');
+(2, 'Hi', 'Hello', 'hiHello@gmail.com', 'HiHello', '162b826c13cebd8806b1e114edecfcc9', '2013-09-25 22:04:41');
 
 --
 -- Indexes for dumped tables
